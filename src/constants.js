@@ -1,4 +1,4 @@
 export const URL = {
-  ENDPOINT: 'http://localhost:3000',
+  ENDPOINT: 'https://priyanka-weather-service.herokuapp.com/',
   GET_WEATHER: '/weather/',
 };
